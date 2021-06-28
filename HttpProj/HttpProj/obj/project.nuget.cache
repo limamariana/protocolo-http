@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1rDeNBtjjRlQdALR0pEaqsb8pttE4PYBTcukpnmTPu1H1+U9XMl2eCYwtdcB27uXUZU4LtXWaH75vxSK//M3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.rodrigues.de.lima\\Desktop\\lógica\\protocolo-http\\HttpProj\\HttpProj\\HttpProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.rodrigues.de.lima\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
